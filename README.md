@@ -7,7 +7,7 @@
   - [Arival](#arival)
   - [Avito](#avito)
   - [Beeline](#beeline)
-  - [INMYROOM](#inmyroom]
+  - [INMYROOM](#inmyroom)
   - [Нетология](#netology)
   - [Rambler](#rambler)
   - [Тинькофф Банк](#tinkoff)
