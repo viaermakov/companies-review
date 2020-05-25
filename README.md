@@ -1,9 +1,9 @@
-#Frontend companies review
+# Frontend companies review
 
 There are some interview and reviews of IT companies from developers. 
+P.S If you have some articles about this welcome to PR.
 
 ## Table of contents
-
 
 - [Russian](#russian)
   - [Avito](#avito)
@@ -17,6 +17,16 @@ There are some interview and reviews of IT companies from developers.
 - [English](#english)
   
 - [License](#license)
+
+
+
+
+
+
+
+
+
+
 
 
  
