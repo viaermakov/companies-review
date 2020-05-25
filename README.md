@@ -1,10 +1,11 @@
-![Frontend companies review](assets/logo.png)
+![Frontend companies review]
+
+There are some interview and reviews of IT companies from developers. 
 
 ## Table of contents
 
 
 - [Russian](#russian)
-  - [Arival](#arival)
   - [Avito](#avito)
   - [Beeline](#beeline)
   - [INMYROOM](#inmyroom)
