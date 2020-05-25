@@ -1,7 +1,7 @@
 # Frontend companies review
 
 There are some interview and reviews of IT companies from developers. 
-P.S If you have some articles about this welcome to PR.
+P.S If you have some articles about it welcome to PR.
 
 ## Table of contents
 
