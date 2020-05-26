@@ -42,7 +42,7 @@ If you have some articles about it PR welcome.
 
 - [Собеседование в Билайн middle frontend-разработчиком с ЗП 220к](https://youtu.be/nToDJ0sh5Z4)
 
-### [Bell Integrator](https://www.beeline.ru/)
+### [Bell Integrator](https://bellintegrator.com/)
 
 - [Собеседование на удаленку по Frontend Vue JS ](https://youtu.be/LPvGU94USKE)
 
@@ -59,7 +59,7 @@ If you have some articles about it PR welcome.
 
 - [Собеседование в Додо Пиццу](https://habr.com/ru/company/dodopizzadev/blog/490372/)
 
-### [INMYROOM](https://netology-group.ru/)
+### [INMYROOM](https://www.inmyroom.ru)
 
 - [Собеседование в компанию INMYROOM frontend-разработчиком с ЗП 100k](https://youtu.be/YzEUQXePaVE) 
 
