@@ -9,7 +9,7 @@ If you have some articles about it PR welcome.
 - [Russian](#russian)
   - [Avito](#avito)
   - [Beeline](#beeline)
-  - [Bell Integrator](#bellintegrator)
+  - [Bell Integrator](#bell-integrator)
   - [CSSSR.RU](#csssr)
   - [INMYROOM](#inmyroom)
   - [Нетология](#netology)
