@@ -10,10 +10,10 @@ If you have some articles about it PR welcome.
   - [Avito](#avito)
   - [Beeline](#beeline)
   - [Bell Integrator](#bell-integrator)
-  - [CSSSR.RU](#csssr)
+  - [CSSSR.RU](#csssrru)
   - [INMYROOM](#inmyroom)
   - [Нетология](#netology)
-  - [Mail.ru](#mail)
+  - [Mail.ru](#mailru)
   - [Rambler](#rambler)
   - [Тинькофф Банк](#tinkoff)
   - [Yandex.ru](#yandex)
@@ -55,7 +55,7 @@ If you have some articles about it PR welcome.
 
 - [Как я стал Middle разработчиком](https://archakov.im/post/kak-ya-stal-middle-razrabotchikom.html)
 
-### [Dodo Pizza](https://www.beeline.ru/)
+### [Dodo Pizza](https://dodopizza.ru/)
 
 - [Собеседование в Додо Пиццу](https://habr.com/ru/company/dodopizzadev/blog/490372/)
 
