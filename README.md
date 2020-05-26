@@ -1,15 +1,18 @@
 # Frontend companies review
 
-There are some interview and reviews of IT companies from developers. 
-P.S If you have some articles about it welcome to PR.
+There are some interview and reviews of IT companies from developers.
+
+If you have some articles about it PR welcome.
 
 ## Table of contents
 
 - [Russian](#russian)
   - [Avito](#avito)
   - [Beeline](#beeline)
+  - [Bell Integrator](#bellintegrator)
   - [INMYROOM](#inmyroom)
   - [Нетология](#netology)
+  - [Mail.ru](#mail)
   - [Rambler](#rambler)
   - [Тинькофф Банк](#tinkoff)
   - [Yandex.ru](#yandex)
@@ -32,11 +35,15 @@ P.S If you have some articles about it welcome to PR.
  
 ### [Avito](https://www.avito.ru/)
 
-- [Фронтенд в Avito](https://youtu.be/OFKbwNc8AIw)
+- [Как мы переделали структуру собеседований, и что из этого вышло](https://habr.com/ru/company/avito/blog/443700/)
   
 ### [Beeline](https://www.beeline.ru/)
 
 - [Собеседование в Билайн middle frontend-разработчиком с ЗП 220к](https://youtu.be/nToDJ0sh5Z4)
+
+### [Bell Integrator](https://www.beeline.ru/)
+
+- [Собеседование на удаленку по Frontend Vue JS ](https://youtu.be/LPvGU94USKE)
 
 ### [Booking](https://www.booking.com/)
 
@@ -50,6 +57,15 @@ P.S If you have some articles about it welcome to PR.
 ### [INMYROOM](https://netology-group.ru/)
 
 - [Собеседование в компанию INMYROOM frontend-разработчиком с ЗП 100k](https://youtu.be/YzEUQXePaVE) 
+
+ ### [JOOM](https://www.joom.com/)
+
+- [Немного про Front-end собеседования в некоторые известные компании](https://medium.com/@editied/%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE-front-end-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%BD%D0%B5%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-cc3ba0228318)
+
+### [Mail.ru](https://www.mail.ru/)
+
+- [Как я стал Front-end разработчиком в Mail.Ru](https://geekbrains.ru/posts/mailru_frontend_developer)
+- [Немного про Front-end собеседования в некоторые известные компании](https://medium.com/@editied/%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE-front-end-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%BD%D0%B5%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-cc3ba0228318) 
 
 ### [Netology](https://netology-group.ru/)
 
@@ -65,9 +81,15 @@ P.S If you have some articles about it welcome to PR.
 
 - [Поиск работы фронтендером в 2016 году](https://andrew-r.ru/notes/searching-for-job-2016/) 
 
+ ### [VK](https://www.vk.com/)
+
+- [Немного про Front-end собеседования в некоторые известные компании](https://medium.com/@editied/%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE-front-end-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%BD%D0%B5%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-cc3ba0228318)
+ 
  ### [Yandex](https://www.yandex.ru/)
 
 - [Как я проработала 3 месяца в Я.Маркете и уволилась](https://habr.com/ru/post/470337/)
+- [Собеседование в Яндексе: Фронтенд-разработчик](https://medium.com/@mbelsky/yandex-frontend-interview-454c75435b26)
+- [Немного про Front-end собеседования в некоторые известные компании](https://medium.com/@editied/%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE-front-end-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%BD%D0%B5%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-cc3ba0228318)
 
 
 ## License
