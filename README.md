@@ -1,6 +1,6 @@
 # Frontend companies review
 
-There are some interviews and reviews of IT companies from developers.
+There are some job interviews and reviews of IT companies from developers.
 
 If you have some articles about it PR welcome.
 
