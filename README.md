@@ -12,6 +12,7 @@ If you have some articles about it PR welcome.
   - [Bell Integrator](#bell-integrator)
   - [CSSSR.RU](#csssrru)
   - [INMYROOM](#inmyroom)
+  - [Gitlab](#gitlab)
   - [Нетология](#netology)
   - [Mail.ru](#mailru)
   - [Rambler](#rambler)
@@ -62,6 +63,10 @@ If you have some articles about it PR welcome.
 ### [INMYROOM](https://www.inmyroom.ru)
 
 - [Собеседование в компанию INMYROOM frontend-разработчиком с ЗП 100k](https://youtu.be/YzEUQXePaVE) 
+
+ ### [Gitlab](https://about.gitlab.com/.com/)
+ 
+ - [Как пройти собеседование в GitLab, попасть в команду разработчиков Vue и стать Staff-engineer](https://habr.com/ru/company/ruvds/blog/505480/) 
 
  ### [JOOM](https://www.joom.com/)
 
