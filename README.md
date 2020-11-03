@@ -7,6 +7,7 @@ If you have some articles about it PR welcome.
 ## Table of contents
 
 - [Russian](#russian)
+  - [Amazon](#amazon)
   - [Avito](#avito)
   - [Beeline](#beeline)
   - [Bell Integrator](#bell-integrator)
@@ -33,7 +34,9 @@ If you have some articles about it PR welcome.
 
 
 
+### [Amazon](https://www.amazon.com)
 
+- [Собеседование в Амазон](https://vitkarpov.me/posts/how-i-got-a-job-at-amazon/)
  
 ### [Avito](https://www.avito.ru/)
 
