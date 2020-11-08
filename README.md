@@ -1,4 +1,4 @@
-# Frontend companies review
+# Review of companies interview
 
 There are some job interviews and reviews of IT companies from developers.
 
