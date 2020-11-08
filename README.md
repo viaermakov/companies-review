@@ -13,6 +13,7 @@ If you have some articles about it PR welcome.
   - [Bell Integrator](#bell-integrator)
   - [CSSSR.RU](#csssrru)
   - [INMYROOM](#inmyroom)
+  - [FACEBOOK](#facebook)
   - [Gitlab](#gitlab)
   - [Нетология](#netology)
   - [Mail.ru](#mailru)
@@ -66,6 +67,10 @@ If you have some articles about it PR welcome.
 ### [INMYROOM](https://www.inmyroom.ru)
 
 - [Собеседование в компанию INMYROOM frontend-разработчиком с ЗП 100k](https://youtu.be/YzEUQXePaVE) 
+
+### [FACEBOOK](https://www.facebook.com)
+
+- [Фронтенд-инженер из лондонского Facebook: как попасть в FAANG?](https://habr.com/ru/company/gms/blog/526366/) 
 
  ### [Gitlab](https://about.gitlab.com/.com/)
  
