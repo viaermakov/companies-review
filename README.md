@@ -1,6 +1,6 @@
-# Review of companies interview
+# Reviews of technical interviews
 
-There are some job interviews and reviews of IT companies from developers.
+There are reviews of technical interviews in different IT companies.
 
 PR welcome.
 
