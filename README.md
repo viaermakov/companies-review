@@ -101,6 +101,7 @@ PR welcome.
 ### [Tinkoff](https://www.tinkoff.ru/)
 
 - [Поиск работы фронтендером в 2016 году](https://andrew-r.ru/notes/searching-for-job-2016/) 
+- [Хотели как в FAANG, а вышло как всегда или Опыт собеседования в Тинькофф в 3 актах](https://habr.com/ru/post/582600) 
 
  ### [VK](https://www.vk.com/)
 
