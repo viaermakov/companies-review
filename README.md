@@ -35,6 +35,7 @@ PR welcome.
 
 - [Собеседование в Амазон](https://vitkarpov.me/posts/how-i-got-a-job-at-amazon/)
 - [Как проходить собеседование на дата-сайентиста в Amazon в 2021 году](https://habr.com/ru/company/skillbox/blog/540940/)
+- [Мой опыт собеседования в Amazon](https://habr.com/ru/post/646319/)
  
 ### [Avito](https://www.avito.ru/)
 
